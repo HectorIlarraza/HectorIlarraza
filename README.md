@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.codewars.com/users/DioVoid28">
+    <a href="https://discordapp.com/users/hectorTheDeveloper#1925">
       <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=Codewars&logoColor=5865F2" alt="Discord
 Codewars Badge"/>
     </a>
