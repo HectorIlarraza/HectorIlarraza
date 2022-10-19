@@ -68,7 +68,7 @@ Codewars Badge"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorIlarraza&show_icons=true&theme=radical&layout=compact)](https://github.com/HectorIlarraza/github-readme-stats)
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HectorIlarraza&theme=tokyonight)](https://github.com/HectorIlarraza/github-readme-stats)
 
 <!--
 create a wakatime account
