@@ -64,18 +64,15 @@ Codewars Badge"/>
 
 ### :fire: My Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HectorIlarraza&show_icons=true&theme=midnight-purple)](https://github.com/HectorIlarraza/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorIlarraza&show_icons=true&theme=radical&layout=compact)](https://github.com/HectorIlarraza/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HectorIlarraza&theme=tokyonight)](https://github.com/HectorIlarraza/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HectorIlarraza&show_icons=true&theme=midnight-purple)](https://github.com/HectorIlarraza/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HectorIlarraza&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
-create a wakatime account
-https://wakatime.com/
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HectorIlarraza&show_icons=true&theme=aura)](https://github.com/HectorIlarraza/github-readme-stats)
-
 **HectorIlarraza/HectorIlarraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
