@@ -17,6 +17,9 @@ Codewars Badge"/>
     <a href="https://www.codewars.com/users/DioVoid28">
       <img src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=Codewars&logoColor=red" alt="Codewars Badge"/>
     </a>
+    <a href="https://twitter.com/CushyJS?t=ZK8nrtZY4QD6tFPiivnlNg&s=09">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
   </div>
   <br />
   <img src="https://komarev.com/ghpvc/?username=HectorIlarraza&style=flat-square&color=blue" alt=""/>
@@ -35,8 +38,8 @@ Codewars Badge"/>
 ### 👨🏾‍💻 About Me :
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer.   
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
+- :telescope: I am currently contributing to a frontend and backend dope@$$ 🦄 project, stay tuned!
+- 📚 Currently Studying TypeScript, Redux, and AWS.
 - :zap: In my free time, I solve problems on Codewars and read Javascript & algorithm books.
 - 💬 Ask me about Anime, manga, code, Marvel and anything really 😅
 - 😄 Pronouns: he/him
