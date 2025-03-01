@@ -8,7 +8,7 @@ Codewars Badge"/>
     <a href="https://www.linkedin.com/in/hectorilarraza/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-Portfolio-URL">
+    <a href="https://hectorilarraza.github.io/hector-portfolio/">
       <img src="https://img.shields.io/badge/%20-Portfolio-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio Badge"/>
     </a>
     <a href="hectorilarraza1414@gmail.com">
